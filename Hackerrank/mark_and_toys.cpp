@@ -48,7 +48,6 @@ int main()
 	sort(a,0,n-1);
 	i=0;
 	int count=0;
-	cout<<endl;
 	while(k>=0)
 	{
 		k-=a[i++];
